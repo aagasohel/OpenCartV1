@@ -1,0 +1,44 @@
+20:12:24.936 [main] INFO  oc.testcases.com.TC001_AccountRegistrationTest - Validating the expected and actual confirmation message after registration
+20:12:25.015 [main] INFO  oc.testcases.com.TC001_AccountRegistrationTest - ***** Finished TC001_accountRegistration test case
+20:12:32.529 [main] INFO  oc.testcases.com.TC002_LoginTest - ***** starting TC002_LoginTest ******
+20:12:34.721 [main] INFO  oc.testcases.com.TC002_LoginTest - ***** Finished TC002_LoginTest ******
+20:24:33.262 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\shoel\eclipse-workspace\OpencartV1\master.xml"
+20:24:43.688 [main] INFO  oc.testcases.com.TC001_AccountRegistrationTest - ****** starting TC001_accountRegistration test case 
+20:24:43.689 [main] DEBUG oc.testcases.com.TC001_AccountRegistrationTest - This is a debug log message
+20:24:43.885 [main] INFO  oc.testcases.com.TC001_AccountRegistrationTest - Clicked on My account link
+20:24:46.205 [main] INFO  oc.testcases.com.TC001_AccountRegistrationTest - Clicked on Register link
+20:24:46.209 [main] INFO  oc.testcases.com.TC001_AccountRegistrationTest - Providing customer details...
+20:24:51.169 [main] INFO  oc.testcases.com.TC001_AccountRegistrationTest - Clicked on continue button
+20:24:51.169 [main] INFO  oc.testcases.com.TC001_AccountRegistrationTest - Validating the expected and actual confirmation message after registration
+20:24:51.224 [main] INFO  oc.testcases.com.TC001_AccountRegistrationTest - ***** Finished TC001_accountRegistration test case
+20:24:54.826 [main] INFO  oc.testcases.com.TC002_LoginTest - ***** starting TC002_LoginTest ******
+20:24:56.887 [main] INFO  oc.testcases.com.TC002_LoginTest - ***** Finished TC002_LoginTest ******
+20:28:21.255 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\shoel\eclipse-workspace\OpencartV1\master.xml"
+20:34:23.259 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\shoel\eclipse-workspace\OpencartV1\master.xml"
+11:26:06.197 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\shoel\AppData\Local\Temp\testng-eclipse-2102482019\testng-customsuite.xml"
+11:26:06.613 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 1 ms.
+11:26:06.617 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 2 ms.
+11:26:06.620 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+11:26:06.621 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+11:26:06.622 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+11:26:06.622 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+11:26:06.623 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+11:26:06.623 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+11:26:06.634 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 8 ms.
+11:26:06.648 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 14 ms.
+11:26:06.651 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+11:26:06.652 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 1 ms.
+11:26:06.654 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+11:26:06.654 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+11:26:06.655 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+11:26:06.655 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+11:26:06.659 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+11:26:06.660 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+11:26:06.661 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+11:26:06.661 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+11:26:06.667 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+11:26:06.668 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+11:26:06.668 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+11:26:06.668 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+11:26:06.669 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+11:26:06.670 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.

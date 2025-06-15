@@ -1,0 +1,44 @@
+11:26:06.672 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+11:26:06.680 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+11:26:06.682 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+11:26:06.682 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+11:26:06.697 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\shoel\AppData\Local\Temp\testng-eclipse-2102482019\testng-customsuite.xml
+
+11:26:06.732 [main] INFO  org.testng.internal.Utils - [Utils] DynamicGraphHelper.createDynamicGraph() took 8 ms.
+11:26:07.018 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.jq.Main@5b1f29fa: 104 ms
+11:26:07.038 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.FailedReporter@13cf7d52: 20 ms
+11:26:07.053 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.XMLReporter@3dd1dc90: 15 ms
+11:26:07.066 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.EmailableReporter2@1cbf6e72: 12 ms
+11:26:07.081 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@4c398c80: 15 ms
+11:26:07.081 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.internal.ExitCodeListener@7fc6de5b: 0 ms
+11:28:19.494 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\shoel\eclipse-workspace\OpencartV1\master.xml"
+11:28:19.928 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\shoel\eclipse-workspace\OpencartV1\master.xml
+
+11:28:31.155 [main] INFO  oc.testcases.com.TC001_AccountRegistrationTest - ******** Account Registration test starts *****
+11:28:31.353 [main] INFO  oc.testcases.com.TC001_AccountRegistrationTest - clicked on my account
+11:28:32.234 [main] INFO  oc.testcases.com.TC001_AccountRegistrationTest - clicked on Register
+11:28:33.001 [main] INFO  oc.testcases.com.TC001_AccountRegistrationTest - entered all the deatails
+11:28:34.177 [main] INFO  oc.testcases.com.TC001_AccountRegistrationTest - clicked on continue
+11:28:34.243 [main] INFO  oc.testcases.com.TC001_AccountRegistrationTest - ******** Account Registration test finished *****
+11:28:39.631 [main] INFO  oc.testcases.com.TC002_LoginTest - ***** starting TC002_LoginTest ******
+11:28:41.879 [main] INFO  oc.testcases.com.TC002_LoginTest - ***** Finished TC002_LoginTest ******
+11:30:35.053 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\shoel\eclipse-workspace\OpencartV1\master.xml"
+11:30:41.717 [main] INFO  oc.testcases.com.TC001_AccountRegistrationTest - ******** Account Registration test starts *****
+11:30:41.915 [main] INFO  oc.testcases.com.TC001_AccountRegistrationTest - clicked on my account
+11:30:42.738 [main] INFO  oc.testcases.com.TC001_AccountRegistrationTest - clicked on Register
+11:30:43.501 [main] INFO  oc.testcases.com.TC001_AccountRegistrationTest - entered all the deatails
+11:30:44.814 [main] INFO  oc.testcases.com.TC001_AccountRegistrationTest - clicked on continue
+11:30:44.874 [main] INFO  oc.testcases.com.TC001_AccountRegistrationTest - ******** Account Registration test finished *****
+11:30:48.265 [main] INFO  oc.testcases.com.TC002_LoginTest - ***** starting TC002_LoginTest ******
+11:30:50.237 [main] INFO  oc.testcases.com.TC002_LoginTest - ***** Finished TC002_LoginTest ******
+11:32:44.400 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\shoel\eclipse-workspace\OpencartV1\master.xml"
+11:32:49.081 [main] INFO  oc.testcases.com.TC001_AccountRegistrationTest - ******** Account Registration test starts *****
+11:32:49.388 [main] INFO  oc.testcases.com.TC001_AccountRegistrationTest - clicked on my account
+11:32:50.045 [main] INFO  oc.testcases.com.TC001_AccountRegistrationTest - clicked on Register
+11:32:50.672 [main] INFO  oc.testcases.com.TC001_AccountRegistrationTest - entered all the deatails
+11:32:51.777 [main] INFO  oc.testcases.com.TC001_AccountRegistrationTest - clicked on continue
+11:32:51.850 [main] INFO  oc.testcases.com.TC001_AccountRegistrationTest - ******** Account Registration test finished *****
+11:32:55.409 [main] INFO  oc.testcases.com.TC002_LoginTest - ***** starting TC002_LoginTest ******
+11:32:57.406 [main] INFO  oc.testcases.com.TC002_LoginTest - ***** Finished TC002_LoginTest ******

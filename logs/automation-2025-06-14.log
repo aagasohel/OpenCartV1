@@ -1,0 +1,52 @@
+19:28:30.140 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\shoel\eclipse-workspace\OpencartV1\master.xml"
+19:28:30.563 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\shoel\eclipse-workspace\OpencartV1\master.xml
+
+19:28:34.638 [main] INFO  oc.testcases.com.TC001_AccountRegistrationTest - ****** starting TC001_accountRegistration test case 
+19:28:34.639 [main] DEBUG oc.testcases.com.TC001_AccountRegistrationTest - This is a debug log message
+19:28:34.997 [main] INFO  oc.testcases.com.TC001_AccountRegistrationTest - Clicked on My account link
+19:28:35.596 [main] INFO  oc.testcases.com.TC001_AccountRegistrationTest - Clicked on Register link
+19:28:35.602 [main] INFO  oc.testcases.com.TC001_AccountRegistrationTest - Providing customer details...
+19:28:37.267 [main] INFO  oc.testcases.com.TC001_AccountRegistrationTest - Clicked on continue button
+19:28:37.267 [main] INFO  oc.testcases.com.TC001_AccountRegistrationTest - Validating the expected and actual confirmation message after registration
+19:28:37.333 [main] ERROR oc.testcases.com.TC001_AccountRegistrationTest - test failed...
+19:28:37.333 [main] DEBUG oc.testcases.com.TC001_AccountRegistrationTest - debug logs...
+19:28:41.515 [main] INFO  oc.testcases.com.TC002_LoginTest - ***** starting TC002_LoginTest ******
+19:28:43.461 [main] INFO  oc.testcases.com.TC002_LoginTest - ***** Finished TC002_LoginTest ******
+19:46:45.856 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\shoel\eclipse-workspace\OpencartV1\master.xml"
+19:46:46.298 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\shoel\eclipse-workspace\OpencartV1\master.xml
+
+19:46:51.616 [main] INFO  oc.testcases.com.TC001_AccountRegistrationTest - ****** starting TC001_accountRegistration test case 
+19:46:51.616 [main] DEBUG oc.testcases.com.TC001_AccountRegistrationTest - This is a debug log message
+19:46:51.784 [main] INFO  oc.testcases.com.TC001_AccountRegistrationTest - Clicked on My account link
+19:46:52.612 [main] INFO  oc.testcases.com.TC001_AccountRegistrationTest - Clicked on Register link
+19:46:52.617 [main] INFO  oc.testcases.com.TC001_AccountRegistrationTest - Providing customer details...
+19:46:55.169 [main] INFO  oc.testcases.com.TC001_AccountRegistrationTest - Clicked on continue button
+19:46:55.171 [main] INFO  oc.testcases.com.TC001_AccountRegistrationTest - Validating the expected and actual confirmation message after registration
+19:46:55.226 [main] ERROR oc.testcases.com.TC001_AccountRegistrationTest - test failed...
+19:46:55.226 [main] DEBUG oc.testcases.com.TC001_AccountRegistrationTest - debug logs...
+19:47:00.819 [main] INFO  oc.testcases.com.TC002_LoginTest - ***** starting TC002_LoginTest ******
+19:47:03.517 [main] INFO  oc.testcases.com.TC002_LoginTest - ***** Finished TC002_LoginTest ******
+19:59:20.470 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\shoel\eclipse-workspace\OpencartV1\master.xml"
+19:59:20.918 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\shoel\eclipse-workspace\OpencartV1\master.xml
+
+19:59:25.637 [main] INFO  oc.testcases.com.TC001_AccountRegistrationTest - ****** starting TC001_accountRegistration test case 
+19:59:25.637 [main] DEBUG oc.testcases.com.TC001_AccountRegistrationTest - This is a debug log message
+19:59:25.801 [main] INFO  oc.testcases.com.TC001_AccountRegistrationTest - Clicked on My account link
+19:59:26.444 [main] INFO  oc.testcases.com.TC001_AccountRegistrationTest - Clicked on Register link
+19:59:26.449 [main] INFO  oc.testcases.com.TC001_AccountRegistrationTest - Providing customer details...
+19:59:28.432 [main] INFO  oc.testcases.com.TC001_AccountRegistrationTest - Clicked on continue button
+19:59:28.433 [main] INFO  oc.testcases.com.TC001_AccountRegistrationTest - Validating the expected and actual confirmation message after registration
+19:59:28.500 [main] ERROR oc.testcases.com.TC001_AccountRegistrationTest - test failed...
+19:59:28.500 [main] DEBUG oc.testcases.com.TC001_AccountRegistrationTest - debug logs...
+19:59:34.557 [main] INFO  oc.testcases.com.TC002_LoginTest - ***** starting TC002_LoginTest ******
+19:59:36.951 [main] INFO  oc.testcases.com.TC002_LoginTest - ***** Finished TC002_LoginTest ******
+20:12:14.447 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\shoel\eclipse-workspace\OpencartV1\master.xml"
+20:12:21.884 [main] INFO  oc.testcases.com.TC001_AccountRegistrationTest - ****** starting TC001_accountRegistration test case 
+20:12:21.885 [main] DEBUG oc.testcases.com.TC001_AccountRegistrationTest - This is a debug log message
+20:12:22.125 [main] INFO  oc.testcases.com.TC001_AccountRegistrationTest - Clicked on My account link
+20:12:22.994 [main] INFO  oc.testcases.com.TC001_AccountRegistrationTest - Clicked on Register link
+20:12:23.019 [main] INFO  oc.testcases.com.TC001_AccountRegistrationTest - Providing customer details...
+20:12:24.935 [main] INFO  oc.testcases.com.TC001_AccountRegistrationTest - Clicked on continue button
