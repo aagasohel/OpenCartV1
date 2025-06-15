@@ -50,4 +50,8 @@ public class TC001_AccountRegistrationTest extends BaseClass {
 		
 		logger.info("******** Account Registration test finished *****");
 	}
+
+	public void demo(){
+		sytem.out.println("added demo method in remote repo");
+	}
 }
