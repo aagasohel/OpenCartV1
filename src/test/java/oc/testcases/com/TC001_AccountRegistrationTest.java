@@ -52,6 +52,6 @@ public class TC001_AccountRegistrationTest extends BaseClass {
 	}
 
 	public void demo(){
-		sytem.out.println("added demo method in remote repo");
+		System.out.println("added demo method in remote repo");
 	}
 }
